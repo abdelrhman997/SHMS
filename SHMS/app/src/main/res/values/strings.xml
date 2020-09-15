@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SHMS</string>
+    <string name="footstepHeader"> FootStep Monitoring</string>
+    <string name="footStepbtn">Show Daily Info</string>
 </resources>
